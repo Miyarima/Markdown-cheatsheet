@@ -168,7 +168,7 @@ Create a ``` Code block ``` by using ``` before and after the word, sentence or 
 
 [Markdown](https://github.com/miyarima/markdown)
 
-[Another page](/other-page)
+[Another page](/mvc)
 
 <https://github.com/miyarima/markdown>
 
@@ -177,7 +177,7 @@ https://github.com/miyarima/markdown
 ```
 [Markdown](https://github.com/miyarima/markdown)
 
-[Another page](/other-page)
+[Another page](/mvc)
 
 <https://github.com/miyarima/markdown>
 
