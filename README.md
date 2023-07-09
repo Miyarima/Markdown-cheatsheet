@@ -164,6 +164,26 @@ Create a ``` Code block ``` by using ``` before and after the word, sentence or 
 ![alt text for the image](Url or path for the image)
 ```
 
+## Links
+
+[Markdown](https://github.com/miyarima/markdown)
+
+[Another page](/other-page)
+
+<https://github.com/miyarima/markdown>
+
+https://github.com/miyarima/markdown
+
+```
+[Markdown](https://github.com/miyarima/markdown)
+
+[Another page](/other-page)
+
+<https://github.com/miyarima/markdown>
+
+https://github.com/miyarima/markdown
+```
+
 ## Checkbox
 
 Must have a space inbetween - [ and [ ]
